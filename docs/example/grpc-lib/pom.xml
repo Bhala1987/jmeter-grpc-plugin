@@ -9,7 +9,7 @@
     <version>0.0.1</version>
 
     <properties>
-        <grpc.version>1.54.2</grpc.version>
+        <grpc.version>1.75.0</grpc.version>
         <os-maven-plugin.version>1.4.1.Final</os-maven-plugin.version>
     </properties>
 
